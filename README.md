@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 👨‍💻 All of my projects are available at [https://web-pribadi.netlify.app/](https://web-pribadi.netlify.app/)
+- 👨‍💻 All of my projects are available at (https://new-portfolio-akbar.netlify.app/)
 
 - ⚡ Fun fact **I am funny 😁**
 
