@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akbar Hossam Delmiro</h1>
-<h3 align="center">A passionate backend developer from Tangerang</h3>
+<h3 align="center">A passionate Fullstack developer from Tangerang</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
